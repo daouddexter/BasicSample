@@ -1,0 +1,7 @@
+#Tue May 09 16:55:13 IST 2017
+base.0=C\:\\Users\\Daoud\\Desktop\\android-testing-master\\android-testing-master\\unit\\BasicSample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_4c1e7ab797155d09bf8960b8740199addf0256cc
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Daoud\\Desktop\\android-testing-master\\android-testing-master\\unit\\BasicSample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_a923419fdb081d8916d75905b1c642e1ce98b833\\classes.dex
+base.1=C\:\\Users\\Daoud\\Desktop\\android-testing-master\\android-testing-master\\unit\\BasicSample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_a923419fdb081d8916d75905b1c642e1ce98b833
+file.0=C\:\\Users\\Daoud\\Desktop\\android-testing-master\\android-testing-master\\unit\\BasicSample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_4c1e7ab797155d09bf8960b8740199addf0256cc\\classes.dex
