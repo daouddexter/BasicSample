@@ -39,10 +39,10 @@ public class EmailValidator implements TextWatcher {
                     ")+"
     );
 
-    private boolean mIsValid = false;
+    private boolean isValid = false;
 
     public boolean isValid() {
-        return mIsValid;
+        return isValid;
     }
 
     /**
@@ -57,7 +57,7 @@ public class EmailValidator implements TextWatcher {
 
     @Override
     final public void afterTextChanged(Editable editableText) {
-        mIsValid = isValidEmail(editableText);
+        isValid = isValidEmail(editableText);
     }
 
     @Override
